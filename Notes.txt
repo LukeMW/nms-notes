@@ -1,6 +1,6 @@
 NMS Capitol Ship Mission Notes
 
-Cryo-Pump - 1.5Mill (you get 2 per mission)
-Fusion Accelerant - 1.5Mill
+Cryo-Pump - 1.5Mill (2 per mission)
+Fusion Accelerant - 1.5Mill (1 per mission)
 Portable Reactor - 4.2Mill  
-Semiconductor - 320K (you get 5 per mission)
+Semiconductor - 320K (5 per mission)
