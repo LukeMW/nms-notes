@@ -2,4 +2,6 @@ NMS Capitol Ship Mission Notes
 
 Cryo-Pump - 1.5 Mill
 
-Fusion Accelerant - 1.5 Mill  
+Fusion Accelerant - 1.5 Mill
+
+Portable Reactor - 4.2Mill  
