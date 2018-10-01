@@ -4,3 +4,4 @@ Cryo-Pump - 1.5Mill
 Fusion Accelerant - 1.5Mill 
 Portable Reactor - 4.2Mill  
 Semiconductor - 320K 
+Neural Duct  -  50k
