@@ -1,7 +1,14 @@
-NMS Capitol Ship Mission Notes
+NMS Capitol Ship Mission Reward Notes
 
 Cryo-Pump - 1.5Mill 
 Fusion Accelerant - 1.5Mill 
 Portable Reactor - 4.2Mill  
 Semiconductor - 320K 
 Neural Duct  -  50k
+Hot Ice - 320k
+
+Planetary Depot Items
+
+Magno-Gold - 25k
+Thermic Condensate - 50k
+Lemmium - 25k
